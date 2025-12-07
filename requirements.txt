@@ -1,0 +1,6 @@
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.12.0
+accelerate
+bitsandbytes  # optional for QLoRA
+datasets
