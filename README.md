@@ -74,3 +74,6 @@ MIT. See LICENSE for details.
 └── tests/                    # Unit tests
     └── test_layer.py         # Basic tests
 ```
+
+## Authorship note:
+Authored by Iheb Gafsi during tenure at NanoTensor. Forked to personal account for open-source maintenance.
